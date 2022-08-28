@@ -1,0 +1,25 @@
+body{
+    padding-top: 50px;
+}
+#head{
+    background-color: whitesmoke;
+    
+}
+#first{
+    width: 145px;
+}
+#second{
+    width: 335px;
+}
+#location{
+    width: 30px;
+    height: 30px;
+}
+#id1{
+    padding: 10px;
+}
+#id2{
+    background-color: blue;
+    color:aliceblue;
+    padding: 10px 5px 10px 5px;
+}
